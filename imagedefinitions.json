@@ -1,6 +1,6 @@
 [
   {
-    "name": "nodejs-test",
-    "image": "300560903441.dkr.ecr.us-east-1.amazonaws.com/nodejs-test"
+    "name": "nest-demo",
+    "image": "300560903441.dkr.ecr.us-east-1.amazonaws.com/nest-demo"
   }
 ]
